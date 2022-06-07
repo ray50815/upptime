@@ -11,6 +11,16 @@ sites:
     url: https://news.ycombinator.com
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
+  - name: youtube
+    url: https://www.youtube.com/
+  - name: shopee
+    url: https://shopee.tw/
+  - name: netflix
+    url: https://www.netflix.com/browse
+  - name: eeclass
+    url: https://ncueeclass.ncu.edu.tw/
+  - name: twitter
+    url: https://tweetdeck.twitter.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
